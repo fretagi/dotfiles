@@ -1,5 +1,5 @@
 set background=dark
-colorscheme gruvbox
+colorscheme gotham
 
 " Ensure vim uses filetype plugins
  filetype plugin on
